@@ -4,12 +4,11 @@
 
 
 REALIZADO POR:
+	Pedro Mª Sánchez Moscoso
 
-	    Pedro Mª Sánchez Moscoso
+	Sandra Jiménez Caro
 
-      Sandra Jiménez Caro
-
-      Eduardo Albano Carmona
+	Eduardo Albano Carmona
 
 Curso: 2º ASIR 
 
@@ -23,7 +22,7 @@ Curso: 2º ASIR
 
 [Historia](#_sz8c47ds6hl5)
 
-[Funciones/utilidades y características. Ventajas y desventajas](https://docs.google.com/document/d/1VSaRf0LJNc09pogxcqVLPhiRmpnwV1sKsLq6SXUvna4/edit#heading=h.x9rcmsm78z1g)(https://docs.google.com/document/d/1VSaRf0LJNc09pogxcqVLPhiRmpnwV1sKsLq6SXUvna4/edit#heading=h.x9rcmsm78z1g)
+[Funciones/utilidades y características. Ventajas y desventajas]
 
 1 Las herramientas de monitorización de servidores.
 
