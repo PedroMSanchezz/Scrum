@@ -4,9 +4,9 @@ Scrum Icinga
 ![](./img_icinga/Aspose.Words.ab8a48c7-358d-4dc4-8707-6898295c592c.001.png)
 
 
+REALIZADO POR:
 
-
-NOMBRE:	Pedro Mª Sánchez Moscoso
+        Pedro Mª Sánchez Moscoso
 
         Sandra Jiménez Caro
 
