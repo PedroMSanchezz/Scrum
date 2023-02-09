@@ -3,13 +3,13 @@
 ![](./img_netdata/Aspose.Words.c282e636-957e-49a3-88d0-26ad3d594338.001.png)
 
 
+REALIZADO POR:
 
+	    Pedro Mª Sánchez Moscoso
 
-NOMBRE:	Pedro Mª Sánchez Moscoso
+      Sandra Jiménez Caro
 
-`		`Sandra Jiménez Caro
-
-`		`Eduardo Albano Carmona
+      Eduardo Albano Carmona
 
 Curso: 2º ASIR 
 
