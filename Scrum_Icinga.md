@@ -8,19 +8,19 @@ Scrum Icinga
 
 NOMBRE:	Pedro Mª Sánchez Moscoso
 
-`		`Sandra Jiménez Caro
+        Sandra Jiménez Caro
 
-`		`Eduardo Albano Carmona
+        Eduardo Albano Carmona
 
 Curso: 2º ASIR 
 
 # Índice
 -----
-[**Índice](#_9fb30wxk007a)	**2****
+[**Índice](#_9fb30wxk007a)	
 
-[Historia](#_sz8c47ds6hl5)	2
+[Historia](#_sz8c47ds6hl5)
 
-[Funciones/utilidades y características. Ventajas y desventajas](#_x9rcmsm78z1g)	3
+[Funciones/utilidades y características. Ventajas y desventajas](#_x9rcmsm78z1g)
 ## **Historia**
 
 En mayo de 2009, un grupo de desarrolladores de la comunidad de Nagios anunció **Icinga**, una nueva bifurcación del código, citando su insatisfacción con el estancamiento del desarrollo del software de Nagios en ese momento, y su deseo de abrir su desarrollo a una base más amplia.
