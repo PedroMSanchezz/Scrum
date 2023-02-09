@@ -19,11 +19,11 @@ Curso: 2º ASIR
 
 # Índice
 -----
-[**Índice](#_9fb30wxk007a)	**2****
+[**Índice](#_9fb30wxk007a)	
 
-[Historia](#_sz8c47ds6hl5)	2
+[Historia](#_sz8c47ds6hl5)
 
-[Funciones/utilidades y características. Ventajas y desventajas](https://docs.google.com/document/d/1VSaRf0LJNc09pogxcqVLPhiRmpnwV1sKsLq6SXUvna4/edit#heading=h.x9rcmsm78z1g)	[3](https://docs.google.com/document/d/1VSaRf0LJNc09pogxcqVLPhiRmpnwV1sKsLq6SXUvna4/edit#heading=h.x9rcmsm78z1g)
+[Funciones/utilidades y características. Ventajas y desventajas](https://docs.google.com/document/d/1VSaRf0LJNc09pogxcqVLPhiRmpnwV1sKsLq6SXUvna4/edit#heading=h.x9rcmsm78z1g)(https://docs.google.com/document/d/1VSaRf0LJNc09pogxcqVLPhiRmpnwV1sKsLq6SXUvna4/edit#heading=h.x9rcmsm78z1g)
 
 1 Las herramientas de monitorización de servidores.
 
