@@ -6,11 +6,12 @@
 
 
 NOMBRE:	
-`		`Pedro Mª Sánchez Moscoso
 
-`		`Sandra Jiménez Caro
+Pedro Mª Sánchez Moscoso
 
-`		`Eduardo Albano Carmona
+Sandra Jiménez Caro
+
+Eduardo Albano Carmona
 
 Curso: 2º ASIR 
 
