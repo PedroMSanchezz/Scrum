@@ -139,7 +139,7 @@ Finalmente, para acceder a Netdata abre tu navegador y dirígete a la siguiente 
 
 Esquema de Red 
 
-![](./Aspose.Words.d2388988-ff5d-46c1-bba1-b7a54ef2f60b.008.png)
+![](./img_netdata/Aspose.Words.d2388988-ff5d-46c1-bba1-b7a54ef2f60b.008.png)
 ##
 ## Pruebas netdata
 **Verificación de instalación**: Para verificar que Netdata está correctamente instalado en el sistema se ejecuta el comando netdata -v en la línea de comandos. Se puede ver la versión de Netdata instalada en el sistema.
