@@ -5,4 +5,4 @@ A continuación se les mostrará ambos trabajos, pinche en cualquiera ver:
 
 [Trabajo sobre Icinga](./Scrum_Icinga.md)
 
-[Trabajo sobre NetData](./Scrum_Netdata.md)
+[Trabajo sobre NetData](./Scrum_Netdata_sp2.md)
