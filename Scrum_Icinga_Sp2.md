@@ -138,21 +138,21 @@ Nos muestra un resumen de la configuración
 ![](./img_icinga/Aspose.Words.7ff0228a-8ad0-4399-91bf-b9fa8f92ae39.009.png)
 Nos da la bienvenida a icinga web 2
 ![](./img_icinga/Aspose.Words.7ff0228a-8ad0-4399-91bf-b9fa8f92ae39.010.png)
+Pantalla de inicio
+![](./img_icinga/Aspose.Words.7ff0228a-8ad0-4399-91bf-b9fa8f92ae39.012.png)
 
 
 
 
-
-
-
-
+Esquema de red:
 
 ![](./img_icinga/Aspose.Words.7ff0228a-8ad0-4399-91bf-b9fa8f92ae39.011.png)
 
-![](./img_icinga/Aspose.Words.7ff0228a-8ad0-4399-91bf-b9fa8f92ae39.012.png)
+
 
 ## **Diseño de pruebas**
 **Prueba de ping:** Comprobaremos si se puede acceder a un host a través de la red y mediremos el tiempo que tarda una respuesta en llegar. Icinga tiene un plugin de ping incorporado, por lo que se puede configurar fácilmente una prueba de ping en Icinga para cada host en la red.
+En esta prueba realizamos un ping y comprobamos si sigue siendo alcanzable con la opción comprobar ahora
 
 ![](./img_icinga/Aspose.Words.7ff0228a-8ad0-4399-91bf-b9fa8f92ae39.013.png)
 
@@ -161,20 +161,39 @@ Nos da la bienvenida a icinga web 2
 
 
 **Prueba de procesos:** Icinga también puede monitorear procesos específicos que se ejecutan en un host. Crearemos una prueba para comprobar si un proceso crítico (ssh), está funcionando correctamente.
+La prueba consiste en intentar conectarnos por ssh a nuestro servidor icinga y ver los logs. Como vemos, nos hemos conectado correctamente al servidor.
+
 
 ![](./img_icinga/Aspose.Words.7ff0228a-8ad0-4399-91bf-b9fa8f92ae39.014.png)
 
 
 
 **Prueba de espacio en disco**: Esta prueba comprueba la cantidad de espacio disponible en un disco duro y alertará al usuario si el espacio libre cae por debajo de un umbral predefinido. Esto es importante para garantizar que los sistemas no se queden sin espacio de almacenamiento.
+Al intentar realizar esta prueba nos encontramos con que el servidor icinga no tiene permisos suficientes sobre el disco duro.
+
 
 ![](./img_icinga/Aspose.Words.7ff0228a-8ad0-4399-91bf-b9fa8f92ae39.015.png)
 
 **Prueba de uso de CPU:** Esta prueba monitorea el uso de la CPU en un host y alerta si el uso de la CPU alcanza un umbral predefinido.
+Al descargarnos stress lo ponemos a funcionar indicando el número de núcleos y observamos el comportamiento de este.
 
 ![](./img_icinga/Aspose.Words.7ff0228a-8ad0-4399-91bf-b9fa8f92ae39.016.png)
 
 **Prueba de uso de memoria**: Esta prueba monitorea el uso de la memoria en un host y alerta si el uso de la memoria alcanza un umbral predefinido. Con ello identificaremos problemas de rendimiento y nos aseguraremos de que los sistemas no se queden sin memoria y comiencen a tener problemas de estabilidad.
+En la siguiente prueba lanzamos un bucle para estresar la memoria, y vemos que swap para a estado crítico entre otros servicios.
 
 ![](./img_icinga/Aspose.Words.7ff0228a-8ad0-4399-91bf-b9fa8f92ae39.017.png)
 
+## **Comparativa**
+Icinga y Netdata son dos herramientas de monitoreo de sistemas que tienen enfoques y características diferentes:
+
+Tanto icinga como netdata son herramientas de monitoreo de código abierto, como primera característica diferenciadora icinga está basada en Nagios y Netdata está diseñado para sistemas de alto rendimiento. Icinga supervisa los servicios de red, host, aplicaciones y recursos del hardware, por otro lado netdata ofrece información más detallada de los recursos del sistema y además  los muestra utilizando gráficos cosa que en icinga no. 
+
+A nivel de notificaciones Icinga proporciona alertas de notificación y capacidad de informes, netdata se enfoca más en la observación a tiempo real. lo que permite una resolución de problemas más rápida, también te da la capacidad de recibir las notificaciones por correo electrónico.
+Icinga es personalizable lo cual lo hace ideal para medianas y grandes empresas, netdata por otro lado es más fácil de configurar e instalar pero está dirigido a sistemas pequeños y medianos.
+
+## **Conclusion**
+
+En conclusión, Icinga es una plataforma de monitoreo de sistemas de código abierto muy eficaz y escalable que permite a los administradores de sistemas y redes supervisar sus sistemas y aplicaciones críticas en tiempo real. Icinga es altamente personalizable, lo que permite a los usuarios adaptar el software a sus necesidades específicas, y ofrece una amplia gama de características y funcionalidades que lo hacen adecuado para una amplia variedad de entornos y casos de uso.
+
+Con Icinga, los usuarios pueden supervisar tanto los aspectos de hardware como de software de sus sistemas, lo que les permite detectar problemas de manera proactiva antes de que se conviertan en fallos críticos. Además, Icinga es compatible con una amplia gama de plugins y complementos, lo que le permite supervisar una amplia variedad de servicios y aplicaciones, incluidos servicios en la nube.
