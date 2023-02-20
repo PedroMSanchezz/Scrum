@@ -137,7 +137,7 @@ Finalmente, para acceder a Netdata abre tu navegador y dirígete a la siguiente 
 
 
 
-Esquema de Red 
+## Esquema de Red 
 
 ![](./img_netdata/Aspose.Words.d2388988-ff5d-46c1-bba1-b7a54ef2f60b.008.png)
 ##
@@ -201,6 +201,13 @@ Al cerrar todas las pestañas que tenemos abiertas, volvemos a comprobar el uso 
 
 En la siguiente imagen, podemos ver como las alertas las hemos puesto para que lleguen directamente a nuestro correo electrónico, por lo que una vez que salta dicha alerta se manda automáticamente a nuestro correo.
 ![](https://user-images.githubusercontent.com/99346523/220115198-60a2a86f-73a0-4e8f-bb13-31a4b87461fa.png)
+
+
+## Conclusión
+
+En conclusión, el programa NetData es una herramienta de monitoreo de sistema que ofrece una gran cantidad de información sobre el rendimiento del sistema en tiempo real. Con su arquitectura distribuida y capacidad de integración con una amplia gama de sistemas operativos, actualmente NetData es popular para administradores de sistemas y desarrolladores que desean supervisar y optimizar el rendimiento de sus sistemas y aplicaciones. 
+
+Además, la interfaz de usuario es intuitiva por lo que hace que sea fácil de usar incluso para usuarios con poca experiencia en monitoreo de sistema. En resumen, NetData es una herramienta valiosa para mejorar el rendimiento del sistema y la calidad de la experiencia de usuario en entornos de servidor y escritorio.
 
 
 
