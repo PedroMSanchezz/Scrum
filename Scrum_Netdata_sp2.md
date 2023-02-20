@@ -199,6 +199,8 @@ Al cerrar todas las pestañas que tenemos abiertas, volvemos a comprobar el uso 
 
 ![](./img_netdata/Aspose.Words.d2388988-ff5d-46c1-bba1-b7a54ef2f60b.020.png)
 
+En la siguiente imagen, podemos ver como las alertas las hemos puesto para que lleguen directamente a nuestro correo electrónico, por lo que una vez que salta dicha alerta se manda automáticamente a nuestro correo.
+![](https://user-images.githubusercontent.com/99346523/220115198-60a2a86f-73a0-4e8f-bb13-31a4b87461fa.png)
 
 
 
