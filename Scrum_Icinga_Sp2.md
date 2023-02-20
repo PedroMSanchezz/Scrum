@@ -117,23 +117,26 @@ Hay varios tipos de monitorización, incluyendo:
 
 Cada tipo de monitorización utiliza diferentes técnicas y herramientas para recopilar y analizar los datos, y puede ser realizada por software especializado o por un equipo de profesionales de la monitorización.
 
+Configuración:
+
+El token asignado fue dado al final de la instalación
 
 ![](./img_icinga/Aspose.Words.7ff0228a-8ad0-4399-91bf-b9fa8f92ae39.002.png)
-
+Aplicamos en monitoring
 ![](./img_icinga/Aspose.Words.7ff0228a-8ad0-4399-91bf-b9fa8f92ae39.003.png)
-
+Comprobamos que los módulos php funcionan
 ![](./img_icinga/Aspose.Words.7ff0228a-8ad0-4399-91bf-b9fa8f92ae39.004.png)
-
+Ponemos el tipo de autenticación
 ![](./img_icinga/Aspose.Words.7ff0228a-8ad0-4399-91bf-b9fa8f92ae39.005.png)
-
+Colocamos la configuración de la base de datos previamente configurada
 ![](./img_icinga/Aspose.Words.7ff0228a-8ad0-4399-91bf-b9fa8f92ae39.006.png)
-
+Configuramos la cuenta de administrador
 ![](./img_icinga/Aspose.Words.7ff0228a-8ad0-4399-91bf-b9fa8f92ae39.007.png)
-
+Aplicamos esta configuración por defecto
 ![](./img_icinga/Aspose.Words.7ff0228a-8ad0-4399-91bf-b9fa8f92ae39.008.png)
-
+Nos muestra un resumen de la configuración
 ![](./img_icinga/Aspose.Words.7ff0228a-8ad0-4399-91bf-b9fa8f92ae39.009.png)
-
+Nos da la bienvenida a icinga web 2
 ![](./img_icinga/Aspose.Words.7ff0228a-8ad0-4399-91bf-b9fa8f92ae39.010.png)
 
 
