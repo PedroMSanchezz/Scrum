@@ -199,7 +199,10 @@ Al cerrar todas las pestañas que tenemos abiertas, volvemos a comprobar el uso 
 
 ![](./img_netdata/Aspose.Words.d2388988-ff5d-46c1-bba1-b7a54ef2f60b.020.png)
 
+
 En la siguiente imagen, podemos ver como las alertas las hemos puesto para que lleguen directamente a nuestro correo electrónico, por lo que una vez que salta dicha alerta se manda automáticamente a nuestro correo.
+
+
 ![](https://user-images.githubusercontent.com/99346523/220115198-60a2a86f-73a0-4e8f-bb13-31a4b87461fa.png)
 
 
@@ -210,4 +213,11 @@ En conclusión, el programa NetData es una herramienta de monitoreo de sistema q
 Además, la interfaz de usuario es intuitiva por lo que hace que sea fácil de usar incluso para usuarios con poca experiencia en monitoreo de sistema. En resumen, NetData es una herramienta valiosa para mejorar el rendimiento del sistema y la calidad de la experiencia de usuario en entornos de servidor y escritorio.
 
 
+## Comparativa Netdata e Icinga
+
+Icinga y Netdata son dos herramientas de monitoreo de sistemas que tienen enfoques y características diferentes:
+
+Tanto icinga como netdata son herramientas de monitoreo de código abierto, como primera característica diferenciadora icinga está basada en Nagios y Netdata está diseñado para sistemas de alto rendimiento. Icinga supervisa los servicios de red, host, aplicaciones y recursos del hardware, por otro lado netdata ofrece información más detallada de los recursos del sistema y además  los muestra utilizando gráficos cosa que en icinga no. 
+A nivel de notificaciones Icinga proporciona alertas de notificación y capacidad de informes, netdata se enfoca más en la observación a tiempo real. lo que permite una resolución de problemas más rápida, también te da la capacidad de recibir las notificaciones por correo electrónico.
+Icinga es personalizable lo cual lo hace ideal para medianas y grandes empresas, netdata por otro lado es más fácil de configurar e instalar pero está dirigido a sistemas pequeños y medianos.
 
